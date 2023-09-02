@@ -1,2 +1,2 @@
 # roboshop-terraform
-terraform
+terraform is a infrastructure tool
