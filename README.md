@@ -1,2 +1,2 @@
 # roboshop-terraform
-terraform is a infrastructure
+terraform is a infrastructure as a Code
